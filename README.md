@@ -1,4 +1,4 @@
-<img align="left" height="150" src="![image](https://github.com/piyushsachdeva/piyushsachdeva/assets/40286378/40f5d4dc-4317-47f7-aac3-656e05d30c16)"  />
+<img align="left" height="150" src="https://github.com/piyushsachdeva/piyushsachdeva/assets/40286378/40f5d4dc-4317-47f7-aac3-656e05d30c16"  />
 
 ###
 
