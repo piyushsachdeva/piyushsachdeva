@@ -40,8 +40,7 @@
 ###
 
 <div align="left">
-  <img src="![image](https://github.com/piyushsachdeva/piyushsachdeva/assets/40286378/09c117a6-eb2c-4365-ab11-506f25d3968c)
-" height="40" alt="amazonwebservices logo"  />
+  <img src="https://github.com/piyushsachdeva/piyushsachdeva/assets/40286378/09c117a6-eb2c-4365-ab11-506f25d3968c" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
   <img width="12" />
