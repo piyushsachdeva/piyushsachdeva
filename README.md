@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Piyush Sachdeva, born in Haridwar(Uttarakhand), India, and now living in Canada.<br><br>- 🔭 I’m working as a Cloud Engineer with Google<br>- 📚 I'm currently learning Kubernetes and everything related to Cloud/DevOps<br>- ⚡ In my free time, I help with The CloudOps Community, create YouTube video tutorials, and mentor Cloud and DevOps aspirants</p>
+<p align="left">I'm Piyush Sachdeva, born in Haridwar(Uttarakhand), India, and now living in Canada.<br><br>- 🔭 I’m working as a Cloud Engineer with Google<br>- 📚 I'm currently teaching Kubernetes and everything related to Cloud/DevOps<br>- ⚡ In my free time, I help with The CloudOps Community, create YouTube video tutorials, and mentor Cloud and DevOps aspirants</p>
 
 ###
 
